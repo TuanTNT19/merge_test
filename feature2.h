@@ -1,5 +1,5 @@
-#ifndef FEATURE1
-#define FEATURE1
+#ifndef FEATURE2
+#define FEATURE2
 
 #include <stdio.h>
 
